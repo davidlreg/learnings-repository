@@ -19,4 +19,6 @@ Got questions or suggestions? Contact me by sending a message on LinkedIn or a D
 
 #
 
-<iframe src="https://giphy.com/embed/l41JU9pUyosHzWyuQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-l41JU9pUyosHzWyuQ">via GIPHY</a></p>
+<img src="https://media2.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif?cid=ecf05e47l8tocrbc5o8jjbe2rtdjqoa24pj0fnkoc5jzew6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"/>
+
+
